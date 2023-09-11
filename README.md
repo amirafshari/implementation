@@ -1,2 +1,2 @@
 # Backbones
-CNN Backbones Implemented in PyTorch
+DNN modules implemented in PyTorch
